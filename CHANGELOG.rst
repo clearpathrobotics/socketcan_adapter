@@ -2,8 +2,8 @@
 Changelog for package socketcan_adapter
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.2.1 (2025-07-22)
+------------------
 * Added catch2 as test dependency.
 * Contributors: Tony Baltovski
 
