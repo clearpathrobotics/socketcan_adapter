@@ -2,8 +2,8 @@
 Changelog for package socketcan_adapter
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.2.0 (2025-07-22)
+------------------
 * Merge branch '1-port-socketcan-adapter-to-publishable-repository' into 'main'
   Resolve "Port Socketcan Adapter to Publishable Repository"
   Closes `#1 <https://github.com/clearpathrobotics/socketcan_adapter/issues/1>`_
