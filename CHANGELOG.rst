@@ -2,6 +2,11 @@
 Changelog for package socketcan_adapter
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Added catch2 as test dependency.
+* Contributors: Tony Baltovski
+
 0.2.0 (2025-07-22)
 ------------------
 * Merge branch '1-port-socketcan-adapter-to-publishable-repository' into 'main'
