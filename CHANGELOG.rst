@@ -2,8 +2,8 @@
 Changelog for package socketcan_adapter
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.2.2 (2025-07-23)
+------------------
 * Disabled tests for now.
 * Contributors: Tony Baltovski
 
